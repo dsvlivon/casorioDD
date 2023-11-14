@@ -1,0 +1,17 @@
+C:\Users\L54556\source\repos\CasorioDD\CasorioDD\bin\Debug\netcoreapp3.1\CasorioDD.exe
+C:\Users\L54556\source\repos\CasorioDD\CasorioDD\bin\Debug\netcoreapp3.1\CasorioDD.deps.json
+C:\Users\L54556\source\repos\CasorioDD\CasorioDD\bin\Debug\netcoreapp3.1\CasorioDD.runtimeconfig.json
+C:\Users\L54556\source\repos\CasorioDD\CasorioDD\bin\Debug\netcoreapp3.1\CasorioDD.runtimeconfig.dev.json
+C:\Users\L54556\source\repos\CasorioDD\CasorioDD\bin\Debug\netcoreapp3.1\CasorioDD.dll
+C:\Users\L54556\source\repos\CasorioDD\CasorioDD\bin\Debug\netcoreapp3.1\CasorioDD.pdb
+C:\Users\L54556\source\repos\CasorioDD\CasorioDD\obj\Debug\netcoreapp3.1\CasorioDD.csproj.AssemblyReference.cache
+C:\Users\L54556\source\repos\CasorioDD\CasorioDD\obj\Debug\netcoreapp3.1\CasorioDD.Form1.resources
+C:\Users\L54556\source\repos\CasorioDD\CasorioDD\obj\Debug\netcoreapp3.1\CasorioDD.csproj.GenerateResource.cache
+C:\Users\L54556\source\repos\CasorioDD\CasorioDD\obj\Debug\netcoreapp3.1\CasorioDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L54556\source\repos\CasorioDD\CasorioDD\obj\Debug\netcoreapp3.1\CasorioDD.AssemblyInfoInputs.cache
+C:\Users\L54556\source\repos\CasorioDD\CasorioDD\obj\Debug\netcoreapp3.1\CasorioDD.AssemblyInfo.cs
+C:\Users\L54556\source\repos\CasorioDD\CasorioDD\obj\Debug\netcoreapp3.1\CasorioDD.csproj.CoreCompileInputs.cache
+C:\Users\L54556\source\repos\CasorioDD\CasorioDD\obj\Debug\netcoreapp3.1\CasorioDD.dll
+C:\Users\L54556\source\repos\CasorioDD\CasorioDD\obj\Debug\netcoreapp3.1\CasorioDD.pdb
+C:\Users\L54556\source\repos\CasorioDD\CasorioDD\obj\Debug\netcoreapp3.1\CasorioDD.genruntimeconfig.cache
+C:\Users\L54556\source\repos\CasorioDD\CasorioDD\obj\Debug\netcoreapp3.1\CasorioDD.Properties.Resources.resources
